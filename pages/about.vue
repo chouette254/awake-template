@@ -1,21 +1,21 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
+      title="About"
       subtitle="Example About Page"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Gerrishon Sirere</h3>
           <p>
             <strong>
               Edit this page in<code>/pages/about.vue</code>to fit your needs.
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
+            Gerrishon's talents include – but are not limited to – saying yes to plans and then forgetting about them later, talking way too loud in quiet places and spotting dogs to say "hello" to. Sometimes she speaks in front of other people, writes about stuff that matters to her, and recently discovered that twitter is a thing. dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
             sunt temporibus. Distinctio doloremque eum magni nostrum quasi
             ratione rem repudiandae sit!
